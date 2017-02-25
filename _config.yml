@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "The Robots of Ed-Tech"
+title: "The History of the Future of Machine Intelligence"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
