@@ -45,7 +45,7 @@ social:
     share_link: "?u="
 
   - icon:   github
-    url:    https://github.com/audreywatters/robot-news
+    url:    https://github.com/hackeducation/robot-news
     desc:   Fork me on github
     share_url: 
     share_title:
